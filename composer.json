@@ -1,0 +1,20 @@
+{
+    "name": "vimuths123/larapal",
+    "description": "Paypal library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vimuth",
+            "email": "vimuths@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "vimuths123\\larapal\\" : "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
